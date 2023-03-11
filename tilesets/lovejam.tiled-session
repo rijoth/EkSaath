@@ -1,0 +1,213 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level4.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "level.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 216.75,
+                "y": 292
+            }
+        },
+        "level.tmx#terrain": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level1.tmx": {
+            "expandedObjectLayers": [
+                12,
+                11,
+                10,
+                9,
+                8,
+                6,
+                5,
+                4
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 278,
+                "y": 142.66666666666663
+            }
+        },
+        "level1.tmx#terrain": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level2.tmx": {
+            "expandedObjectLayers": [
+                4,
+                5,
+                6,
+                8,
+                9
+            ],
+            "scale": 2,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 229.5,
+                "y": 239
+            }
+        },
+        "level2.tmx#terrain": {
+            "scaleInDock": 1
+        },
+        "level3.tmx": {
+            "expandedObjectLayers": [
+                10,
+                11,
+                12,
+                4,
+                5,
+                8,
+                9
+            ],
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 277.3333333333333,
+                "y": 180
+            }
+        },
+        "level3.tmx#terrain": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "level4.tmx": {
+            "expandedObjectLayers": [
+                12,
+                11,
+                10,
+                9,
+                8,
+                6,
+                5,
+                4
+            ],
+            "scale": 3,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 63.99999999999999,
+                "y": 151
+            }
+        },
+        "level4.tmx#terrain": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level5.tmx": {
+            "expandedObjectLayers": [
+                12,
+                10,
+                8,
+                5,
+                4
+            ],
+            "scale": 1.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 246.66666666666669,
+                "y": 134.66666666666663
+            }
+        },
+        "level5.tmx#terrain": {
+            "scaleInDock": 0.75
+        },
+        "level6.tmx": {
+            "expandedObjectLayers": [
+                4,
+                6
+            ],
+            "scale": 1,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 613,
+                "y": 64
+            }
+        },
+        "level6.tmx#terrain": {
+            "scaleInDock": 0.75
+        },
+        "level7.tmx": {
+            "expandedObjectLayers": [
+                12,
+                4,
+                5,
+                6
+            ],
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 316,
+                "y": 201
+            }
+        },
+        "level7.tmx#terrain": {
+            "scaleInDock": 0.75
+        },
+        "level8.tmx": {
+            "expandedObjectLayers": [
+                10,
+                11,
+                4,
+                5,
+                9
+            ],
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 384.75,
+                "y": 201.5
+            }
+        },
+        "level8.tmx#terrain": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "menu.tmx": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 299.5,
+                "y": 192
+            }
+        },
+        "menu.tmx#terrain": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "/home/rijo/GameJams/loveJam23/tilesets",
+    "last.imagePath": "/home/rijo/GameJams/loveJam23/assets",
+    "last.objectTemplatePath": "/home/rijo/GameJams/loveJam23/tilesets",
+    "map.height": 12,
+    "map.lastUsedExportFilter": "Lua files (*.lua)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 38,
+    "openFiles": [
+        "level1.tmx",
+        "level4.tmx",
+        "level5.tmx"
+    ],
+    "project": "lovejam.tiled-project",
+    "recentFiles": [
+        "level1.tmx",
+        "level5.tmx",
+        "level4.tmx",
+        "level8.tmx",
+        "level3.tmx",
+        "level7.tmx",
+        "level6.tmx",
+        "level2.tmx",
+        "menu.tmx",
+        "level.tmx"
+    ],
+    "tileset.embedInMap": true
+}
